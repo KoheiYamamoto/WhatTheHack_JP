@@ -18,4 +18,4 @@ Master: https://github.com/Microsoft/WhatTheHack
 | ------ | ------ | ------ |
 | Microservice Architecture |![WTH09_Microservices_JP.pptx](WTH09_Microservices_JP.pptx)| https://github.com/microsoft/WhatTheHack/tree/master/009-MicroservicesInAzure |
 | Serverless Architecture |![WTH04-ServerlessComputing_JP.pptx](WTH04-ServerlessComputing_JP.pptx)| https://github.com/microsoft/WhatTheHack/tree/master/015-Serverless |
-| BI2AI |WIP| https://github.com/microsoft/WhatTheHack/tree/master/018-BI2AI |
+| BI2AI |![WTH18-BI2AI_JP.pptx](WTH18-BI2AI_JP.pptx)| https://github.com/microsoft/WhatTheHack/tree/master/018-BI2AI |
